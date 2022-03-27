@@ -1,0 +1,76 @@
+export const arrayOfGenre=[
+    {
+        name:"Acción",
+        number:1,
+    },
+    {
+        name:"Aventura",
+        number:2,
+    },
+    {
+        name:"Comedia",
+        number:4,
+    },
+    {
+        name:"Misterio",
+        number:7,
+    },
+    {
+        name:"Fantasia",
+        number:10,
+    },
+    {
+        name:"Terror",
+        number:14,
+    },
+    {
+        name:"Para Niños",
+        number:15,
+    },
+    {
+        name:"Artes Marciales",
+        number:17,
+    },
+    {
+        name:"Musicales",
+        number:19,
+    },
+    {
+        name:"Samurai",
+        number:21,
+    },
+    {
+        name:"Romance",
+        number:22,
+    },
+    {
+        name:"Escolares",
+        number:23,
+    },
+    {
+        name:"Shounen",
+        number:27,
+    },
+    {
+        name:"Deportes",
+        number:30,
+    },
+    {
+        name:"Vampiros",
+        number:32,
+    },
+    {
+        name:"Militares",
+        number:28,
+    },
+    {
+        name:"Policiales",
+        number:39,
+    },
+    {
+        name:"Suspense",
+        number:41,
+    },
+    
+
+]
