@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TukiAnimes-GitHubPages/static/css/main.13f960e3.chunk.css",
+    "main.js": "/TukiAnimes-GitHubPages/static/js/main.e4db5e3f.chunk.js",
+    "main.js.map": "/TukiAnimes-GitHubPages/static/js/main.e4db5e3f.chunk.js.map",
+    "runtime-main.js": "/TukiAnimes-GitHubPages/static/js/runtime-main.4f5ea84e.js",
+    "runtime-main.js.map": "/TukiAnimes-GitHubPages/static/js/runtime-main.4f5ea84e.js.map",
+    "static/js/2.4e596986.chunk.js": "/TukiAnimes-GitHubPages/static/js/2.4e596986.chunk.js",
+    "static/js/2.4e596986.chunk.js.map": "/TukiAnimes-GitHubPages/static/js/2.4e596986.chunk.js.map",
+    "index.html": "/TukiAnimes-GitHubPages/index.html",
+    "static/css/main.13f960e3.chunk.css.map": "/TukiAnimes-GitHubPages/static/css/main.13f960e3.chunk.css.map",
+    "static/js/2.4e596986.chunk.js.LICENSE.txt": "/TukiAnimes-GitHubPages/static/js/2.4e596986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f5ea84e.js",
+    "static/js/2.4e596986.chunk.js",
+    "static/css/main.13f960e3.chunk.css",
+    "static/js/main.e4db5e3f.chunk.js"
+  ]
+}
